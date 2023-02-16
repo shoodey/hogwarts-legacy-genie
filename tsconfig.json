@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "nodenext",
+    "lib": ["ESNext"],
+    "target": "ESNext",
+    "module": "ESNext",
+    "skipLibCheck": true,
+    "noEmit": true,
+    "strict": true
+  },
+  "include": ["src", "tsup.config.ts"]
+}

@@ -1,0 +1,6 @@
+node_modules
+.env
+backup
+saves
+build
+temp
